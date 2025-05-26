@@ -1,0 +1,15 @@
+{
+  "name": "npm-basics",
+  "version": "1.0.0",
+  "description": "Learning npm basics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Rawat",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^4.0.0"
+  }
+}
